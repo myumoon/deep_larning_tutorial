@@ -1,0 +1,3 @@
+[submodule "oreilliy_sample"]
+	path = oreilliy_sample
+	url = https://github.com/oreilly-japan/deep-learning-from-scratch.git
